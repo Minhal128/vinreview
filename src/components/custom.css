@@ -1,0 +1,14 @@
+/* customStyles.css */
+#vin-button {
+    background-color: #ff7e5f;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  .documentation-link {
+    border: 2px solid #ff7e5f;
+    padding: 10px;
+    color: #ff7e5f;
+  }
+  
